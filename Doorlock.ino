@@ -1,5 +1,5 @@
 /*
-  Copyright (C) 2014 DaKnOb <daknob@tolabaki.gr>
+  Copyright (C) 2014 DaKnOb <daknob.mac@gmail.com>
   Code for ToLABaki <saloni@tolabaki.gr> http://tolabaki.gr/
 */
 
